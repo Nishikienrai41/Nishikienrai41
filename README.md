@@ -16,12 +16,15 @@
 
   - 🎣 Vissen
 
-   [![Relevante foto](https://t3.ftcdn.net/jpg/08/88/97/56/360_F_888975655_HHV279BkjxmDsS4DeceH5GmYtCdj0sDQ.jpg)](https://i.pinimg.com/originals/5a/0a/b9/5a0ab96a70f570c929089379597aa832.jpg)
+   [![Relevante foto](https://t3.ftcdn.net/jpg/08/88/97/56/360_F_888975655_HHV279BkjxmDsS4DeceH5GmYtCdj0sDQ.jpg)](https://madisoncasino.be/fr/games)
 
-  - 📖 Lezen  
+  - 📖 Reading Manga
 
  [![Relevante foto](https://img.asmedia.epimg.net/resizer/v2/PVMMQEWO7VOXNKKE7GPPYWTE2Y.jpg?auth=c84ea1ea08f6e9f403610269308ce1bf730e3f63d6df43419f7c269328d46855&width=644&height=362&smart=true)](https://i.redd.it/jgs80fmzkul71.jpg)
 
+- Sport
+
+[![Relevante foto](https://img.asmedia.epimg.net/resizer/v2/PVMMQEWO7VOXNKKE7GPPYWTE2Y.jpg?auth=c84ea1ea08f6e9f403610269308ce1bf730e3f63d6df43419f7c269328d46855&width=644&height=362&smart=true)](https://i.redd.it/jgs80fmzkul71.jpg)
 
 
 ---
@@ -52,7 +55,7 @@
 ---
 
 ## Oneliner 🤓
-🌟 "Beste MMORPG game maken!" 🌍
+🌟 "STAY HARD!" 🌍
 
 ---
 
