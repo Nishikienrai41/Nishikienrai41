@@ -4,8 +4,7 @@
  
 - 📫 How to reach me: shadowofnazarick@gmail.com
 - 😄 Pronouns: Programmer Her
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+
 
 **Languages and Tools:** 
 
