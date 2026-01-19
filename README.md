@@ -1,86 +1,77 @@
-### Hi there 👋, I am EMRE! 😁
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" width="100%" />
 
- 
-- 📫 How to reach me: shadowofnazarick@gmail.com
-- 😄 Pronouns: Programmer Her
+# EMRE SAHIN
+### Software Developer • Programmer
 
+> _Code with discipline. Build with purpose._
 
-**Languages and Tools:** 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
-
-
-
+</div>
 
 ---
 
-## About Me 🪴
+## 🩸 About Me
 
-- **Naam:** Faruk Emre Sahin 
-- **Studierichting:** Het Spectrum 5AD
-- **Hobby's:**  
-  - 🎮 Gamen  
-  [![Relevante foto](https://cdn3.emoji.gg/emojis/41223-jinxchristmas.png)](https://i.imgflip.com/7rwvrk.jpg)
-  - 📸 Planten  
-  [![Relevante foto](https://www.rynolawncare.com/wp-content/uploads/2022/05/basket-of-veggies-e1651864785925.jpg) ](https://goforest.be)
+I am a motivated software developer with a strong focus on clean code, logical problem-solving,  
+and continuous self-improvement. I enjoy working close to the system level while also building  
+modern applications with structured design.
 
-  - 🎣 Vissen
-
-   [![Relevante foto](https://t3.ftcdn.net/jpg/08/88/97/56/360_F_888975655_HHV279BkjxmDsS4DeceH5GmYtCdj0sDQ.jpg)](https://madisoncasino.be/fr/games)
-
-  - 📖 Reading Magnga
-
- [![Relevante foto](https://wallpapercave.com/wp/wp11516066.jpg)](https://i.redd.it/jgs80fmzkul71.jpg)
-
-- Sport
-
-[![Relevante foto](https://img.asmedia.epimg.net/resizer/v2/PVMMQEWO7VOXNKKE7GPPYWTE2Y.jpg?auth=c84ea1ea08f6e9f403610269308ce1bf730e3f63d6df43419f7c269328d46855&width=644&height=362&smart=true)](https://i.redd.it/jgs80fmzkul71.jpg)
-
+- 🧠 Focused on **programming fundamentals**
+- 🔧 Interested in **backend & system-oriented development**
+- 🩸 Dark / red themed aesthetics
+- 🚀 Always learning, always improving
 
 ---
 
-## 📊 Interessante Feiten
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
 
-| Categorie       | Details                          |
-|------------------|----------------------------------|
-| **Favoriete Taal**  | HTML                          |
-| **Aantal Sterren**   | 5 ⭐ op mijn meest populaire project! |
-| **Doel voor 2025**   | JavaScript leren |
-
----
-
-## Mijn vaardigheden ✨
-
-**Programmeertalen:**  
-- Python 🐍  
-- JavaScript ☕  
-- HTML & CSS 🎨  
-- Ardunio
-
-**Tools:**  
-- Git & GitHub  
-- Visual Studio Code  
-- Ardunio
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-2B0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2B0000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2B0000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Oneliner 🤓
- "STAY HARD!" 
+## 📈 Language Focus (No Top Langs Card)
+
+Instead of auto-generated statistics, I focus on **practical usage and mastery**:
+
+- **Python** – scripting, logic, automation
+- **JavaScript** – interactive & dynamic behavior
+- **C** – low-level understanding & performance
+- **HTML / CSS** – clean structure & styling
+- **SQL** – data handling & persistence
+
+---
+
+## 🧩 Current Goals
+
+- Deepen **JavaScript** knowledge  
+- Improve **software architecture & structure**
+- Build **real, meaningful projects**
+- Strengthen **low-level programming skills**
 
 ---
 
 ## 📬 Contact
 
-- **LinkedIn:** [Jouw LinkedIn-profiel](https://github.com/Nishikienrai41/Nishikienrai41.git)  
-- **E-mail:** Shadowofnazarick@gmail.com
+- 📧 **Email:** shadowofnazarick@gmail.com
+- 🌐 **GitHub:** https://github.com/rusty-sj
 
---
+---
+
+<div align="center">
+
+**STAY HARD.**
+
+</div>
+
