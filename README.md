@@ -1,80 +1,21 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Emre</h1>
+<h3 align="center">A passionate developer from Belguim</h3>
 
-# EMRE SAHIN
-### Software Developer
+- 🌱 I’m currently learning **programming languages**
 
-> Writing clean code, building solid foundations, and continuously improving.
+- 👨‍💻 All of my projects are available at [https://github.com/Nishikienrai41?tab=repositories](https://github.com/Nishikienrai41?tab=repositories)
 
-</div>
+- 📫 How to reach me **farukemresahin@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-I am a software developer with a strong interest in programming fundamentals,  
-problem-solving, and structured software development.  
-I prefer clarity over complexity and focus on writing maintainable, logical code.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishikienrai&show_icons=true&locale=en&layout=compact" alt="nishikienrai" /></p>
 
-I enjoy learning how things work under the hood while also building practical applications.  
-My goal is to grow into a disciplined and reliable developer by working on real projects  
-and improving my technical depth step by step.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishikienrai&show_icons=true&locale=en" alt="nishikienrai" /></p>
 
----
-
-## Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-0F3D2E?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F3D2E?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=for-the-badge&logo=php&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-0F3D2E?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-### Tools & Technologies
-- Git & GitHub  
-- Visual Studio Code  
-- MySQL  
-- Linux (basic usage)  
-
----
-
-## Development Focus
-
-I am currently focused on:
-- Strengthening **JavaScript fundamentals**
-- Writing **clean and readable code**
-- Understanding **software structure and logic**
-- Building small but complete projects
-- Improving problem-solving skills
-
----
-
-## Philosophy
-
-- Keep code simple and understandable  
-- Learn fundamentals before frameworks  
-- Build first, optimize later  
-- Consistency beats motivation  
-
----
-
-## Projects
-
-Most of my projects are focused on learning, experimentation, and improving core skills.  
-I value progress and understanding over flashy results.
-
----
-
-## Contact
-
-- Email: shadowofnazarick@gmail.com  
-- GitHub: https://github.com/rusty-sj
-
----
-
-<div align="center">
-
-Stay disciplined. Keep building.
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishikienrai&" alt="nishikienrai" /></p>
