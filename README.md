@@ -1,77 +1,80 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" width="100%" />
-
 # EMRE SAHIN
-### Software Developer • Programmer
+### Software Developer
 
-> _Code with discipline. Build with purpose._
+> Writing clean code, building solid foundations, and continuously improving.
 
 </div>
 
 ---
 
-## 🩸 About Me
+## About Me
 
-I am a motivated software developer with a strong focus on clean code, logical problem-solving,  
-and continuous self-improvement. I enjoy working close to the system level while also building  
-modern applications with structured design.
+I am a software developer with a strong interest in programming fundamentals,  
+problem-solving, and structured software development.  
+I prefer clarity over complexity and focus on writing maintainable, logical code.
 
-- 🧠 Focused on **programming fundamentals**
-- 🔧 Interested in **backend & system-oriented development**
-- 🩸 Dark / red themed aesthetics
-- 🚀 Always learning, always improving
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-2B0000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2B0000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2B0000?style=for-the-badge&logo=mysql&logoColor=white)
+I enjoy learning how things work under the hood while also building practical applications.  
+My goal is to grow into a disciplined and reliable developer by working on real projects  
+and improving my technical depth step by step.
 
 ---
 
-## 📈 Language Focus (No Top Langs Card)
+## Technical Skills
 
-Instead of auto-generated statistics, I focus on **practical usage and mastery**:
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-0F3D2E?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F3D2E?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=for-the-badge&logo=php&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-0F3D2E?style=for-the-badge&logo=csharp&logoColor=white)
 
-- **Python** – scripting, logic, automation
-- **JavaScript** – interactive & dynamic behavior
-- **C** – low-level understanding & performance
-- **HTML / CSS** – clean structure & styling
-- **SQL** – data handling & persistence
 
----
 
-## 🧩 Current Goals
-
-- Deepen **JavaScript** knowledge  
-- Improve **software architecture & structure**
-- Build **real, meaningful projects**
-- Strengthen **low-level programming skills**
+### Tools & Technologies
+- Git & GitHub  
+- Visual Studio Code  
+- MySQL  
+- Linux (basic usage)  
 
 ---
 
-## 📬 Contact
+## Development Focus
 
-- 📧 **Email:** shadowofnazarick@gmail.com
-- 🌐 **GitHub:** https://github.com/rusty-sj
+I am currently focused on:
+- Strengthening **JavaScript fundamentals**
+- Writing **clean and readable code**
+- Understanding **software structure and logic**
+- Building small but complete projects
+- Improving problem-solving skills
+
+---
+
+## Philosophy
+
+- Keep code simple and understandable  
+- Learn fundamentals before frameworks  
+- Build first, optimize later  
+- Consistency beats motivation  
+
+---
+
+## Projects
+
+Most of my projects are focused on learning, experimentation, and improving core skills.  
+I value progress and understanding over flashy results.
+
+---
+
+## Contact
+
+- Email: shadowofnazarick@gmail.com  
+- GitHub: https://github.com/rusty-sj
 
 ---
 
 <div align="center">
 
-**STAY HARD.**
+Stay disciplined. Keep building.
 
 </div>
-
